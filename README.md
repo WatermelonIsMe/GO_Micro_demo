@@ -20,4 +20,4 @@
 
 6、客户端访问服务，需要写一个web服务，将客户端的请求进行转发，（此步骤暂时没看明白，待续。）模板奉上（web.go），有待理解。
 
-![image](http://192.168.207.25/WatermelonIsMe/GO_Micro_demo/raw/master/image/20181109142632.jpg)
+![image](https://github.com/WatermelonIsMe/GO_Micro_demo/blob/master/image/20181109142632.jpg)
