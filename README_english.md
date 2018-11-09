@@ -20,7 +20,7 @@ Fifth : start the service with go run main.go.
 
 Sixth : we need write a web service to realize client visit sercice,which transmit the request of client.(web.go).this step i can't understand it,it's  continued.
 
-![image](http://192.168.207.25/WatermelonIsMe/GO_Micro_demo/raw/master/image/20181109142632.jpg)
+![image](https://github.com/WatermelonIsMe/GO_Micro_demo/raw/master/image/20181109142632.jpg)
 
 
 
